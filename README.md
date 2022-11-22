@@ -12,9 +12,9 @@
 3. Cuando cualquier usuario envia un mensaje,
 el backend emite un evento en donde envia una lista nueva con todos los mensajes a todos sus clientes
 
-##UNIVERSIDAD AUTÓNOMA DE NUEVO LEÓN
-##FACULTAD DE CIENCIAS FÍSICO MATEMÁTICAS
-Criptografía
+# UNIVERSIDAD AUTÓNOMA DE NUEVO LEÓN
+# FACULTAD DE CIENCIAS FÍSICO MATEMÁTICAS
+## Criptografía
 Producto Integrador de Aprendizaje
 Integrantes:
 Alejandro Cavazos Valdés                     1976996
